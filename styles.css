@@ -67,3 +67,9 @@ body {
 	background-color: #012b58;
   color: #FEF2BF;
 }
+
+.made-by {
+  font-family: 'Press Start 2P', cursive;
+  color: #FEF2BF;
+  font-size: 0.8rem;
+}
